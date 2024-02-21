@@ -41,5 +41,3 @@ I'm currently a second-year quantitative biology student at the University of So
 
 # 💀 Misc:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alexyzha?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
-
-![Steam](https://steam-stat.vercel.app/api?profileName=alyzha)
