@@ -35,6 +35,11 @@ I'm currently a second-year quantitative biology student at the University of So
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-# Stats 
+# 📈 Stats:
 ![alexyzha's Stats](https://github-readme-stats.vercel.app/api?username=alexyzha&theme=nord&show_icons=true&hide_border=true&count_private=true)
 ![alexyzha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexyzha&theme=nord&hide_border=true)
+
+# 💀 Misc:
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexyzha?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
+
+![Steam](https://steam-stat.vercel.app/api?profileName=alyzha)
