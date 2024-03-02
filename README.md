@@ -40,4 +40,4 @@ I'm currently a second-year quantitative biology student at the University of So
 ![alexyzha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexyzha&theme=nord&hide_border=true)
 
 # 💀 Misc:
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexyzha?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alyzh?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
