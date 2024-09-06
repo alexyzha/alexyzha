@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Alex :)</h1>
 
 # About Me:
-I'm currently a second-year quantitative biology student at the University of Southern California. I study data science in school but I'm also very passionate about everything coding-related, especially topics like machine learning, competitive programming, and niche/lesser-known algorithms.
+I'm currently a third-year quantitative biology student at the University of Southern California. I study data science in school but I'm also very passionate about everything coding-related, especially topics like machine learning, competitive programming, and niche/lesser-known algorithms.
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxyzhang/)
