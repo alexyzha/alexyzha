@@ -36,6 +36,8 @@ I'm currently a third-year quantitative biology student at the University of Sou
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+(arch btw)
+
 # Stats:
 ![alexyzha's Stats](https://github-readme-stats.vercel.app/api?username=alexyzha&theme=nord&show_icons=true&hide_border=true&count_private=true)
 ![alexyzha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexyzha&theme=nord&hide_border=true)
