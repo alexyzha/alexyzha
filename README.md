@@ -6,7 +6,7 @@ I'm currently a third-year quantitative biology student at the University of Sou
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxyzhang/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zhanga.virus/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/alyzh/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pragma-balls/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alyzha)
 
 # Languages:
@@ -43,4 +43,4 @@ I'm currently a third-year quantitative biology student at the University of Sou
 ![alexyzha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexyzha&theme=nord&hide_border=true)
 
 # Misc:
-![LeetCode Stats](https://leetcard.jacoblin.cool/alyzh?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pragma-balls?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
