@@ -41,7 +41,6 @@ I'm currently a third-year quantitative biology student at the University of Sou
 
 # Stats:
 ![alexyzha's Stats](https://github-readme-stats.vercel.app/api?username=alexyzha&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![alexyzha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexyzha&theme=nord&hide_border=true)
 
 # Misc:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pragma-balls?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
