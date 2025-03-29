@@ -38,9 +38,3 @@ I'm currently a third-year quantitative biology student at the University of Sou
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 (arch btw)
-
-# Stats:
-![alexyzha's Stats](https://github-readme-stats.vercel.app/api?username=alexyzha&theme=nord&show_icons=true&hide_border=true&count_private=true)
-
-# Misc:
-![LeetCode Stats](https://leetcard.jacoblin.cool/pragma-balls?theme=unicorn&font=IBM%20Plex%20Mono&ext=heatmap)
