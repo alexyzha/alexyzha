@@ -1,7 +1,7 @@
-<h1 align="center">Hi! I'm Alex :)</h1>
+<h1 align="center">Hi! I'm Alex</h1>
 
 # About Me:
-I'm currently a third-year quantitative biology student at the University of Southern California. I study bio/data science in school but I also code a lot for fun :D
+I'm currently a 4th-year computational biology B.S./data science M.S. at the University of Southern California. I study bio/data science in school but I also code a lot for fun :D
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxyzhang/)
@@ -18,9 +18,6 @@ I'm currently a third-year quantitative biology student at the University of Sou
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**C++/C/ASM = GOATED**
-
-
 # Libraries:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -36,5 +33,3 @@ I'm currently a third-year quantitative biology student at the University of Sou
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-(arch btw)
