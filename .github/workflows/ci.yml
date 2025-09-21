@@ -1,16 +1,15 @@
-name: Waka Readme
+name: Update README With Wakatime Stats
+
 on:
+    workflow_dispatch:
     schedule:
-      - cron: '0 * * * *'
+      - cron: "0 */2 * * *"
     push:
         branches: [main]
-    workflow_dispatch:
-
-permissions:
-    contents: write
 
 jobs:
-    update:
+    update-readme:
+        name: UPDATE README
         runs-on: ubuntu-latest
         steps:
           - uses: athul/waka-readme@master
