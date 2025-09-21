@@ -5,6 +5,8 @@ I'm currently a 4th-year computational biology B.S./data science M.S. at the Uni
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 5 hrs 44 mins
+
 Python   4 hrs 50 mins   █████████████████████░░░░   84.45 %
 C++      25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
 CMake    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
