@@ -21,5 +21,7 @@ jobs:
                 LANG_COUNT: 7
                 TIME_RANGE: all_time 
                 CODE_LANG: c++
-                IGNORED_LANGUAGES: Binary YAML TOML JSON CMake
+                IGNORED_LANGUAGES: Binary YAML TOML JSON CMake Text
                 COMMIT_MESSAGE: Updated README with new metrics
+                COMMITTER_NAME: alexyzha
+                COMMITTER_EMAIL: alexyzha@gmail.com
