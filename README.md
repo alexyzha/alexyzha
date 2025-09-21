@@ -3,6 +3,15 @@ I'm currently a 4th-year computational biology B.S./data science M.S. at the Uni
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   4 hrs 50 mins   █████████████████████░░░░   84.45 %
+C++      25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+CMake    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+C        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 
