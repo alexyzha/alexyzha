@@ -16,5 +16,10 @@ jobs:
             with:
                 WAKATIME_API_KEY: ${{secrets.WAKATIME_API_KEY}}
                 SHOW_TIME: true
+                SHOW_TITLE: true
                 SHOW_MASKED_TIME: true
                 LANG_COUNT: 7
+                TIME_RANGE: all_time 
+                CODE_LANG: c++
+                IGNORED_LANGUAGES: Binary YAML TOML JSON CMake
+                COMMIT_MESSAGE: Updated README with new metrics
