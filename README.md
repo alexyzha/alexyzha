@@ -13,12 +13,12 @@ From: 10 April 2025 - To: 30 September 2025
 
 Total Time: 62 hrs 24 mins
 
-C++             19 hrs 51 mins  ✦✦✦✦✦✦✦✦-----------------   31.83 %
-Python          6 hrs 40 mins   ✦✦✦----------------------   10.69 %
-TypeScript      5 hrs 15 mins   ✦✦-----------------------   08.42 %
-JavaScript      4 hrs 41 mins   ✦✦-----------------------   07.50 %
-Makefile        3 hrs 54 mins   ✦✦-----------------------   06.26 %
-Other           3 hrs 21 mins   ✦------------------------   05.38 %
+C++             19 hrs 51 mins  ********-----------------   31.83 %
+Python          6 hrs 40 mins   ***----------------------   10.69 %
+TypeScript      5 hrs 15 mins   **-----------------------   08.42 %
+JavaScript      4 hrs 41 mins   **-----------------------   07.50 %
+Makefile        3 hrs 54 mins   **-----------------------   06.26 %
+Other           3 hrs 21 mins   *------------------------   05.38 %
 ```
 
 <!--END_SECTION:waka-->
