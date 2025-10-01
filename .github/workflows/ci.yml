@@ -21,7 +21,7 @@ jobs:
                 LANG_COUNT: 7
                 TIME_RANGE: all_time
                 STOP_AT_OTHER: false
-                BLOCKS: ★☆
+                BLOCKS: ✦
                 CODE_LANG: c++
                 IGNORED_LANGUAGES: Binary YAML TOML JSON CMake Text
                 COMMIT_MESSAGE: Updated README with new metrics
