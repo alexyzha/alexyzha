@@ -26,5 +26,4 @@ Other           4 hrs 47 mins   ▒░░░░░░░░░░░░░░░
 
 **Socials:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxyzhang/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alyzha)
