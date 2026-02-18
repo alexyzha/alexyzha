@@ -4,7 +4,7 @@ I'm currently a 4th-year computational biology B.S./data science M.S. at the Uni
 
 -------
 
-**Language Stats**
+**Language Stats:**
 
 <!--START_SECTION:waka-->
 
