@@ -9,7 +9,7 @@ I'm currently a 4th-year computational biology B.S./data science M.S. at the Uni
 <!--START_SECTION:waka-->
 
 ```c++
-From: 10 April 2025 - To: 20 July 2026
+From: 10 April 2025 - To: 21 July 2026
 
 Total Time: 563 hrs 39 mins
 
