@@ -9,15 +9,15 @@ I'm currently a 4th-year computational biology B.S./data science M.S. at the Uni
 <!--START_SECTION:waka-->
 
 ```c++
-From: 10 April 2025 - To: 06 September 2026
+From: 10 April 2025 - To: 07 September 2026
 
-Total Time: 585 hrs 34 mins
+Total Time: 590 hrs 32 mins
 
-C++              471 hrs 20 mins       ████████████████████░░░░░   80.49 %
-Python           19 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Other            16 hrs 27 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Markdown         13 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-TypeScript       5 hrs 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+C++              471 hrs 20 mins       ████████████████████░░░░░   79.82 %
+Python           19 hrs 36 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown         17 hrs 19 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Other            17 hrs 12 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+TypeScript       5 hrs 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
